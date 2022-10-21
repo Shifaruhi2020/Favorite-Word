@@ -1,0 +1,52 @@
+.DELBUTTON{
+    padding-left: 400px;
+    width: min-content;
+    height: inherit;
+  }
+  
+  .positiondelbutton{
+    position: relative;
+    float:right;
+  
+    color:black;
+    background-color: rgb(245, 235, 235);
+    /* margin-bottom: 0px; */
+    height: 30px;
+    width:120px;
+    font-size: 18px;
+  }
+  .containerwords{
+    /* background-color: rgb(198, 162, 210); */
+    border-style: solid;
+    nav-left: auto;
+    border-color:rgb(235, 188, 103)
+  }
+  .div{
+   text-align: center;
+  }
+  /* button{
+    float:right;
+  
+    color:black;
+    background-color: rgb(245, 235, 235);
+   
+    height: 30px;
+    width:120px;
+    font-size: 18px;
+   
+} */
+.set{
+  list-style: none;
+  font-size: 20px;
+  color:rgb(66, 65, 65);
+
+
+}
+
+.set-item{
+  background-color: rgb(235, 188, 103);
+  padding:20px;
+  margin:10px;
+
+
+}

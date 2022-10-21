@@ -1,0 +1,62 @@
+
+  .container{
+      width:90%;
+      margin:auto;
+      justify-content: center; 
+      text-align: center;
+    
+      
+    
+  
+  }
+  input{
+      width:170px;
+      height:40px;
+      margin-top: 20px;
+      
+  }
+  .set{
+      list-style: none;
+      font-size: 20px;
+      color:rgb(66, 65, 65);
+      
+  
+  }
+  .set-item{
+      background-color: rgb(235, 188, 103);
+      padding:20px;
+      margin:10px;
+  
+  
+  }
+  .inp{
+      margin-left: 10px;
+  }
+  .sub-but{
+      float:right;
+    
+      color:black;
+      background-color: rgb(245, 235, 235);
+      /* margin-bottom: 0px; */
+      height: 30px;
+      width:100px;
+      font-size: 18px;
+     
+  }
+  .sub-but2{
+    /* float:left; */
+  
+    color:black;
+    background-color: rgb(245, 235, 235);
+    /* margin-bottom: 0px; */
+    height: 33px;
+    width:100px;
+    font-size: 18px;
+    margin-left: 20px;
+    /* margin-right: 100px; */
+   
+}
+  p{
+      font-size: 10px;
+      color:red;
+  }
